@@ -1,0 +1,4 @@
+.boxHolster{
+    display: flex;
+    flex-wrap: wrap;
+}
